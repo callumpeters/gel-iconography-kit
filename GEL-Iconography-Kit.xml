@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-
   <channel>
-
     <title>GEL Iconography Library</title>
-
     <description>A GEL Iconography Library</description>
-
  	<image>
       <url>https://github.com/callumpeters/gel-iconography-kit/raw/main/Library-Cover.png</url>
       <title>GEL Iconography Kit Cover Image</title>
     </image>
  	<generator>Sketch</generator>
-
-    <item>
-
-      <title>GEL Iconography Library</title>
-
-      <pubDate>Thu, 25 Feb 2021 14:51:00 +0000</pubDate>
-
-      <enclosure url="https://github.com/callumpeters/gel-iconography-kit/raw/main/GEL-Iconography-Kit.sketch" type="application/octet-stream" sparkle:version=“1.2”/>
-
-    </item>
-
+  <item>
+    <title>GEL Iconography Library</title>
+    <pubDate>Thu, 25 Feb 2021 14:51:00 +0000</pubDate>
+    <enclosure url="https://github.com/callumpeters/gel-iconography-kit/raw/main/GEL-Iconography-Kit.sketch" type="application/octet-stream" sparkle:version="1.2"/>
+  </item>
   </channel>
-
 </rss>
-
-		
-
