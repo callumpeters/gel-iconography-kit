@@ -1,0 +1,1 @@
+sketch://add-library?url=https%3A%2F%2Fgithub.com%2Fcallumpeters%2Fgel-iconography-kit%2Fraw%2Fmain%2FGEL-Iconography-Kit.xml
